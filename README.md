@@ -1,4 +1,4 @@
-# Product Funnel Analysis in FinTech
+# Funnel Analysis
 
 ## Executive Summary:
 
@@ -36,6 +36,9 @@ Python: Pandas, Matplotlib, Numpy, Writing functions, building a product funnel,
 ### Results & Business Recommendation: 
 
 Creating a dashboard to track product orders gives product and sales stakeholders visibility into the product funnel both overall and for specific clients. Because of democratizing this data, stakeholders are now able to self serve, and the analytics team now has 5 less hours of ad hoc requests per week. This analysis showed us that almost 50% of orders fall out before entering the workflow, and less than 25% of users enter their correct banking credentials to connect their account. According to the model built in Python, increasing user interaction rates by 1% will result in $285 more in daily revenue and increasing completed bank login attempts by 1% will result in $405 more in daily revenue.
+
+<img width="443" height="325" alt="image" src="https://github.com/user-attachments/assets/39f0f556-b98a-4903-8b67-65c2b4bbd769" />
+
 
 
 
